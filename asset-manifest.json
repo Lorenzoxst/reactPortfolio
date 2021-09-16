@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lstreetportfilio/static/css/main.a3f65d7f.chunk.css",
-    "main.js": "/lstreetportfilio/static/js/main.a5aa3ff4.chunk.js",
-    "main.js.map": "/lstreetportfilio/static/js/main.a5aa3ff4.chunk.js.map",
-    "runtime-main.js": "/lstreetportfilio/static/js/runtime-main.3d615e0b.js",
-    "runtime-main.js.map": "/lstreetportfilio/static/js/runtime-main.3d615e0b.js.map",
-    "static/js/2.8f3497da.chunk.js": "/lstreetportfilio/static/js/2.8f3497da.chunk.js",
-    "static/js/2.8f3497da.chunk.js.map": "/lstreetportfilio/static/js/2.8f3497da.chunk.js.map",
-    "index.html": "/lstreetportfilio/index.html",
-    "static/css/main.a3f65d7f.chunk.css.map": "/lstreetportfilio/static/css/main.a3f65d7f.chunk.css.map",
-    "static/js/2.8f3497da.chunk.js.LICENSE.txt": "/lstreetportfilio/static/js/2.8f3497da.chunk.js.LICENSE.txt",
-    "static/media/Resume-2021.3f278171.pdf": "/lstreetportfilio/static/media/Resume-2021.3f278171.pdf",
-    "static/media/lstreet.89d7e4b6.jpg": "/lstreetportfilio/static/media/lstreet.89d7e4b6.jpg",
-    "static/media/App.css": "/lstreetportfilio/static/media/pexels-rodrigo-souza-2531709.d600c5df.jpg"
+    "main.css": "/reactPortfolio/static/css/main.620cd701.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.a5aa3ff4.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.a5aa3ff4.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.cb71553c.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.cb71553c.js.map",
+    "static/js/2.8f3497da.chunk.js": "/reactPortfolio/static/js/2.8f3497da.chunk.js",
+    "static/js/2.8f3497da.chunk.js.map": "/reactPortfolio/static/js/2.8f3497da.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "static/css/main.620cd701.chunk.css.map": "/reactPortfolio/static/css/main.620cd701.chunk.css.map",
+    "static/js/2.8f3497da.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.8f3497da.chunk.js.LICENSE.txt",
+    "static/media/Resume-2021.3f278171.pdf": "/reactPortfolio/static/media/Resume-2021.3f278171.pdf",
+    "static/media/lstreet.89d7e4b6.jpg": "/reactPortfolio/static/media/lstreet.89d7e4b6.jpg",
+    "static/media/App.css": "/reactPortfolio/static/media/pexels-rodrigo-souza-2531709.d600c5df.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d615e0b.js",
+    "static/js/runtime-main.cb71553c.js",
     "static/js/2.8f3497da.chunk.js",
-    "static/css/main.a3f65d7f.chunk.css",
+    "static/css/main.620cd701.chunk.css",
     "static/js/main.a5aa3ff4.chunk.js"
   ]
 }
