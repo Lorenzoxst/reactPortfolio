@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.5bccf758.chunk.css",
+    "main.js": "/home/static/js/main.a5aa3ff4.chunk.js",
+    "main.js.map": "/home/static/js/main.a5aa3ff4.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.190988ce.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.190988ce.js.map",
+    "static/js/2.8f3497da.chunk.js": "/home/static/js/2.8f3497da.chunk.js",
+    "static/js/2.8f3497da.chunk.js.map": "/home/static/js/2.8f3497da.chunk.js.map",
+    "index.html": "/home/index.html",
+    "static/css/main.5bccf758.chunk.css.map": "/home/static/css/main.5bccf758.chunk.css.map",
+    "static/js/2.8f3497da.chunk.js.LICENSE.txt": "/home/static/js/2.8f3497da.chunk.js.LICENSE.txt",
+    "static/media/Resume-2021.3f278171.pdf": "/home/static/media/Resume-2021.3f278171.pdf",
+    "static/media/lstreet.89d7e4b6.jpg": "/home/static/media/lstreet.89d7e4b6.jpg",
+    "static/media/App.css": "/home/static/media/pexels-rodrigo-souza-2531709.d600c5df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.190988ce.js",
+    "static/js/2.8f3497da.chunk.js",
+    "static/css/main.5bccf758.chunk.css",
+    "static/js/main.a5aa3ff4.chunk.js"
+  ]
+}
