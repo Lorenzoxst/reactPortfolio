@@ -5,7 +5,7 @@ function Nav() {
     return (
         <header class="row justify-space-between nav-bar">
             <h1 class="page-title">
-                <Link to='/Home'>
+                <Link to='/reactPortfolio'>
                     Lorenzo Street S
                 </Link> 
             </h1>
@@ -17,7 +17,7 @@ function Nav() {
                     portfolio
                 </Link>
                 <Link to="/Contact">
-                    reachOut
+                    reachMe
                 </Link>
             </nav>
         </header>

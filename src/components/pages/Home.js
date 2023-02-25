@@ -1,7 +1,7 @@
 import React from 'react';
 import devPic from '../../img/lstreet.jpg';
 
-export default function Home() {
+export default function ReactPortfolio() {
     return (
         <>
             <section className="hero row justify-space-around center" data-display="flex" id="hero">

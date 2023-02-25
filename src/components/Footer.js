@@ -1,5 +1,5 @@
 import React from 'react';
-import Resume from '../pdf/Resume-2021.pdf';
+import Resume from '../pdf/Resume-Lorenzo-Street.pdf';
 
 function Footer () {
     return (
